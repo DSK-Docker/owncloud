@@ -1,4 +1,4 @@
-FROM owncloud/server:10.12
+FROM owncloud/server:10.13
 
 LABEL maintainer "Dschinghis Kahn"
 
